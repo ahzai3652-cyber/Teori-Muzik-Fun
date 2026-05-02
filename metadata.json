@@ -1,13 +1,6 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>My Google AI Studio App</title>
-  </head>
-  <body>
-    <div id="root"></div>
-    <script type="module" src="/src/main.tsx"></script>
-  </body>
-</html>
-
+{
+  "name": "Irama Inovasi Tahun 5",
+  "description": "Aplikasi gamifikasi pendidikan muzik berasaskan DSKP Tahun 5 dengan elemen bunyi interaktif dan sijil digital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
